@@ -5,7 +5,7 @@ Here are instructions on how to use this template:
 * Navigate to the [main page of this repository](https://github.com/VeeamCommunity/veeamcommunity-template
 * Follow instructions for [creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template)
   * _Repository names **must** have the prefix:_ **veeamcommunity-**
-  * Example: _veeam-repo-name_
+  * Example: _veeamcommunity-repo-name_
 * Replace **all** repository-specific links
   * `issues` link in _README.md_
   * `create an issue` link in _README.md_
