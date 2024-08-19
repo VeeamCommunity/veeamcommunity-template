@@ -2,7 +2,7 @@
 
 Here are instructions on how to use this template:
 
-* Navigate to the [main page of this repository](https://github.com/VeeamCommunity/veeamcommunity-template
+* Navigate to the [main page of this repository](https://github.com/VeeamCommunity/veeamcommunity-template)
 * Follow instructions for [creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template)
   * _Repository names **must** have the prefix:_ **veeamcommunity-**
   * Example: _veeamcommunity-repo-name_
